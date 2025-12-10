@@ -308,10 +308,10 @@ MIT License - Feel free to use this project for learning and portfolio purposes.
 
 ## 🔗 Connect
 
-**Author**: [Your Name]
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Website]
-- Email: [Your Email]
+**Author**: Seetharam Reddy Marreddy
+- LinkedIn: https://www.linkedin.com/in/ram-marreddy
+- Portfolio: https://github.com/ramaksha89/
+- Email: ram.data89@gmail.com
 
 ---
 
